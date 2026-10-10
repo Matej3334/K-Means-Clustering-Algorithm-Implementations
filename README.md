@@ -1,6 +1,6 @@
 # K-means Clustering of Waste Collection Sites in Europe
 
-Three implementations of the algorithm: Sequential, Parallel and Distributed
+Three implementations of the algorithm: Sequential, Parallel and Distributed.
 The algorithm places k processing facilities to minimize distance to waste-wood accumulation sites.
 
 ## Features
